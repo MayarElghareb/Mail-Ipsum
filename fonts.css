@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'roboto-regular';
+    src: url(Fonts/Roboto/Roboto-Regular.ttf);
+
+  }
+  @font-face {
+    font-family: 'roboto-black';
+    src: url(Fonts/Roboto/Roboto-Black.ttf);
+
+  }
+  @font-face {
+    font-family: 'sansation-regular';
+    src: url(Fonts/sansation/Sansation_Regular.ttf);
+
+  }
